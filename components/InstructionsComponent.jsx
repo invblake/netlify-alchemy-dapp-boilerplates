@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-				Welcome to blake <span>Web3 Game Changer web3-dapp</span>
+				Welcome to Web3 <span>Game Changer Airdrop</span>
 				</h1>
 				<p>
 					Get started by editing this page in{" "}
