@@ -1,0 +1,6 @@
+---
+deployment:
+   task:
+     - export DEPLOYPATH=/home/vitm2483/repositories/netlify-alchemy-dapp-boilerplates
+     - /bin/cp index.html $DEPLOYPATH
+     - /bin/cp style.css $DEPLOYPATH
